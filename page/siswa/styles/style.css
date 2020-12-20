@@ -1,0 +1,136 @@
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/Lora-Regular.ttf');
+}
+@font-face {
+  font-family: 'Cuprum';
+  src: url('../fonts/Cuprum-Regular.ttf');
+}
+body{
+	/*background-color: #f8f8f8 !important;*/
+}
+.table-detail td{
+	padding: 10px;
+}
+.table-detail{
+	font-size: 14px;
+}
+.sidebar{
+	height: 100%;
+    background-color: #14927e;
+    padding-top: 30px;
+    color: #fff;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    position: fixed !important;
+}
+.sidebar a{
+	color: #ffffff;
+	font-size: 13px;
+}
+.sidebar a span{
+	padding-right: 15px;
+}
+
+.sidebar ul{
+	text-align: left;
+}
+
+.name{
+	display: block;
+    padding-top: 15px;
+    margin-bottom: 15px;
+    /*border-bottom: 1px solid #ccc;*/
+    padding-bottom: 20px;
+}
+.separator{
+	background-color: #f5f5f5;
+    color: #337ab7;
+    border-radius: 5px;
+    padding: 15px;
+}
+.header-job{
+	color: #f5f5f5;
+    background-color: #337ab7;
+    border-radius: 5px;
+    padding: 10px 20px;	
+}
+.header-scholar{
+	background-color: #5cb85c;
+}
+.header-tracerstudy{
+	background-color: red;
+}
+.separator span{
+	padding-right: 15px;
+}
+
+.title{
+	padding-top: 20px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+.desc-job{
+	border-bottom: 1px dashed #ccc;
+	margin-bottom: 10px;
+}
+.desc-job h5{
+	font-weight: bold;
+}
+.desc-job span{
+	font-size: 12px;
+	font-style: italic;
+	color: #ccc;
+	margin-bottom: 10px;
+	display: block;
+}
+.desc-job p{
+	font-size: 13px;
+}
+.list-group-item table{
+	width: 100%;
+	font-size: 13px;
+}
+.detail li{
+	display: inline;
+}
+.detail{
+	display: inline;
+	text-align: center;
+}
+.final-score{
+	font-size: 13px;
+}
+.table-form td{
+	padding-right: 15px;
+}
+.table-form{
+	font-size: 13px;
+}
+.search-form{
+	margin-top: 30px;
+}
+.form-control{
+	font-size: 12px !important;
+}
+/*.image-float{
+	margin-right: 10px;
+}*/
+.detail-info{
+	list-style-type: none;
+	padding-left: 0;
+	font-size: 13px;
+}
+.detail-info li{
+	margin-bottom: 8px;
+}
+form{
+	font-size:13px;
+}
+.message{
+	font-size: 14px;
+	font-style: italic;
+	margin-top:20px;
+	margin-bottom: 30px;
+}
